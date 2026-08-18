@@ -3,9 +3,7 @@
 Este repositorio contiene la solucion desarrollada para los Ejemplos 1 al 5 del Capitulo 1 del libro *Flex & Bison* por John Levine.
 
 ## Autores
-- **Grupo 5**
-- **Andres Sebastian Coral**
-- **Johan Galeano**
+- **Grupo 5: Andrés Sebastián Coral Vallejo & Johan Galeano**
 
 ---
 
