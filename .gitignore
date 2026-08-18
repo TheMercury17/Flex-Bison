@@ -1,0 +1,9 @@
+# Executables
+*.exe
+*.o
+*.obj
+
+# Generated Flex and Bison C files
+*.tab.c
+*.tab.h
+lex.yy.c
